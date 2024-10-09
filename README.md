@@ -3,6 +3,10 @@
 
 I'm **OUSSAMA NEMAMCHA**, a passionate full-stack Web Developer and Mobile Developer specializing in creating responsive, user-friendly applications. I am currently a third-year student at the École Nationale Supérieure d'Informatique (ESI Alger).
 
+### 💬 Ask me about 🎯:
+- Web Development .
+- Mobile App development with Flutter.
+- Any Programming challenges you might be facing!
 
 <!--
 **Oussamanmmh/Oussamanmmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
