@@ -1,7 +1,7 @@
 ## SALAM ALAIKUM !
 ## Hi there 👋
 
-I'm **OUSSAMA NEMAMCHA**, a passionate full-stack web developer and mobile developer specializing in creating responsive, user-friendly applications. I am currently a third-year student at the École Nationale Supérieure d'Informatique (ESI Alger).
+I'm **OUSSAMA NEMAMCHA**, a passionate full-stack Web Developer and Mobile Developer specializing in creating responsive, user-friendly applications. I am currently a third-year student at the École Nationale Supérieure d'Informatique (ESI Alger).
 
 
 <!--
