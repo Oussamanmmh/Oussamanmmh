@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 ### 📫 How to reach me:
-- You can find me on [Facebook]([https://github.com/Oussamanmmh](https://www.facebook.com/oussama.NmH.90/)) and [Instagram](https://www.instagram.com/oussama__nmh/)
+- You can find me on [Facebook](https://www.facebook.com/oussama.NmH.90/) and [Instagram](https://www.instagram.com/oussama__nmh/)
 - Feel free to connect with me on [LinkedIn](#) (link coming soon).
 - Email : oussamanmamcha@gmail.com 
 ### ⚡ Fun fact: "Breaking Bad" is the best series ever!
