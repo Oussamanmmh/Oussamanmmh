@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### 📫 How to reach me:
-- You can find me on [Facebook](https://www.facebook.com/oussama.NmH.90/) and [Instagram](https://www.instagram.com/oussama__nmh/)
+- You can find me on [Facebook](https://www.facebook.com/oussama.NmH.90/) and [Instagram](https://www.instagram.com/oussama__nmh/).
 - Feel free to connect with me on [LinkedIn](#) (link coming soon).
-- Email : oussamanmamcha@gmail.com 
+- Email : oussamanmamcha@gmail.com .
 ### ⚡ Fun fact: "Breaking Bad" is the best series ever!
