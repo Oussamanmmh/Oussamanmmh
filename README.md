@@ -1,6 +1,9 @@
 ## SALAM ALAIKUM !
 ## Hi there 👋
 
+I'm **OUSSAMA NEMAMCHA**, a passionate full-stack web developer and mobile developer specializing in creating responsive, user-friendly applications. I am currently a third-year student at the École Nationale Supérieure d'Informatique (ESI Alger).
+
+
 <!--
 **Oussamanmmh/Oussamanmmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
