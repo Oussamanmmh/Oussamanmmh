@@ -3,10 +3,21 @@
 
 I'm **OUSSAMA NEMAMCHA**, a passionate full-stack Web Developer and Mobile Developer specializing in creating responsive, user-friendly applications. I am currently a third-year student at the École Nationale Supérieure d'Informatique (ESI Alger).
 
+
+### Ayah from the Quran 🤲: 
+**Surah At-Tawbah (9:105)**
+
+وَقُلِ اعْمَلُوا فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَٱلْمُؤْمِنُونَ.
+
+*Translation: "And say, 'Work; for Allah will see your work and [so will] His Messenger and the believers.'"*
 ### 💬 Ask me about 🎯:
 - Web Development .
 - Mobile App development with Flutter.
 - Any Programming challenges you might be facing!
+
+### I’m looking to collaborate on 🤝:
+- Projects related to web and mobile development.
+- Startups that leverage innovative technologies.
 
 <!--
 **Oussamanmmh/Oussamanmmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
