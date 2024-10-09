@@ -57,3 +57,4 @@ Here are some ideas to get you started:
 - Feel free to connect with me on [LinkedIn](#) (link coming soon).
 - Email : oussamanmamcha@gmail.com .
 ### ⚡ Fun fact: "Breaking Bad" is the best series ever!
+## "What we know is a drop, what we don’t know is an ocean." – Dark
