@@ -10,6 +10,15 @@ I'm **OUSSAMA NEMAMCHA**, a passionate full-stack Web Developer and Mobile Devel
 وَقُلِ اعْمَلُوا فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَٱلْمُؤْمِنُونَ.
 
 *Translation: "And say, 'Work; for Allah will see your work and [so will] His Messenger and the believers.'"*
+
+
+### Languages I Speak 🌍:
+- **Arabic** (Algeria)
+- **English** (USA)
+- **French** (France)
+- **Spanish** (Spain)
+
+
 ### 💬 Ask me about 🎯:
 - Web Development .
 - Mobile App development with Flutter.
